@@ -20,5 +20,5 @@ You can add accounts in app or you can paste to json file.
 
 ## License
 
-Icon - <a href="https://www.flaticon.com/ru/free-icons/" title="красочный иконки">Icons from Freepik - Flaticon</a>
+Icon - <a href="https://www.flaticon.com/ru/free-icons/" title="красочный иконки">Icons from Freepik - Flaticon</a> <br>
 Project offline-authenticator is distributed under the MIT license. 
